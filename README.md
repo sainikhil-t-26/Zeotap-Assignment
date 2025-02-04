@@ -1,1 +1,1 @@
-This is T Sai Nikhil's Assignment submission for Zeotap internship role.
+This is T Sai Nikhil's project on Exploratory Data analysis which helps businesses to keep track of their financial and customer data. This project aims to help businesses to analyze the patterns of their sales and predict future prospects.
